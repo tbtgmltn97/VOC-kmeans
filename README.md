@@ -42,6 +42,14 @@
 <br>
 <br>
 
+## 연구 결과
+
+<img src="https://postfiles.pstatic.net/MjAyMzA4MjBfOTQg/MDAxNjkyNTMyNjEyNjgy.XXFfPf9fcGBrXjCpv7TlEJSrlZwO2qRXaUHukpB4X1cg.H0lc57-pjAtBaoyHbaopKYLHOFag0mTRpQA2Q6uMy14g.PNG.tbtgmltn97/image.png?type=w773"/>
+<br>
+위의 사진에서 볼 수 있듯이 주된 고객의 VOC를 파악할 수 있었다.<br>
+위의 분석 내용을 토대로 소상공인이 효과적인 VOC 관리를 할 수 있다.
+
+
 ## 🧑‍🤝‍🧑 제작 기간 & 참여 인원
 
   -  제작 기간 : 2022.06.15 ~ 2022.06.30 (약 15일)
